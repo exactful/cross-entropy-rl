@@ -4,6 +4,8 @@ In this post, we will look at how to solve the famous [Frozen Lake](https://www.
 
 Frozen Lake is an [OpenAI Gym](https://www.gymlibrary.dev) environment in which an agent is rewarded for traversing a frozen surface from a start position to a goal position without falling through any perilous holes in the ice.
 
+![Random actions](https://raw.githubusercontent.com/exactful/cross-entropy-rl/master/images/random-actions.gif)
+
 The environment is extremely simple and makes use of only discrete action and observation spaces, which we can evaluate using the following code:
 
 ```python
@@ -289,6 +291,8 @@ Note, a batch may also include the best episodes from earlier batches so we will
 ```
 
 ## Results
+
+![Trained actions](https://raw.githubusercontent.com/exactful/cross-entropy-rl/master/images/trained-actions.gif)
 
 Running the code leads to a solution being found after around 120 episodes:
 
