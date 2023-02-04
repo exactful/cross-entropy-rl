@@ -1,0 +1,8 @@
+cloudpickle==2.2.1
+gym==0.26.2
+gym-notices==0.0.8
+importlib-metadata==6.0.0
+numpy==1.24.1
+torch==1.13.1
+typing_extensions==4.4.0
+zipp==3.12.0
