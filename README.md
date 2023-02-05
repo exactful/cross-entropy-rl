@@ -6,7 +6,7 @@ This project solves the famous [Frozen Lake](https://www.gymlibrary.dev/environm
 
 ## Read more
 
-Blog post: [Using the cross-entropy method to solve Frozen Lake]() on [DEV](https://dev.to)
+Blog post: [Using the cross-entropy method to solve Frozen Lake](https://dev.to/exactful/using-the-cross-entropy-method-to-solve-frozen-lake-3cea) on [DEV](https://dev.to)
 
 ## Installation and usage
 
